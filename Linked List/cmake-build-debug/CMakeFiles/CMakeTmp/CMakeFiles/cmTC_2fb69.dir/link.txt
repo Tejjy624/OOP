@@ -1,0 +1,1 @@
+/usr/bin/cc    -Wl,--enable-auto-import -v CMakeFiles/cmTC_2fb69.dir/CMakeCCompilerABI.c.o  -o cmTC_2fb69.exe -Wl,--out-implib,libcmTC_2fb69.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
